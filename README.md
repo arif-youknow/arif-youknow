@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arif-youknow/">LinkedIn</a> ·
-  <a href="https://arif-khan.onrender.com/">Portfolio</a>
+  <a href="https://www.linkedin.com/in/arif-youknow/">LinkedIn</a>
 </p>
 
 ### About me
