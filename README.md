@@ -3,7 +3,7 @@
 <p align="center">
   <img src="./hero.svg" width="100%" alt="Md Arif Khan — Software Engineer" />
   <br />
-  <a href="https://arif-khan.onrender.com/"><img src="./portfolio.svg" width="49%" alt="Visit my portfolio" /></a><a href="REPLACE_WITH_YOUR_DROPBOX_RESUME_LINK_ENDING_IN_dl=1"><img src="./resume.svg" width="49%" alt="Download my resume" /></a>
+  <a href="https://arif-khan.onrender.com/"><img src="./portfolio.svg" width="50%" alt="Visit my portfolio" /></a><a href="REPLACE_WITH_YOUR_DROPBOX_RESUME_LINK_ENDING_IN_dl=1"><img src="./resume.svg" width="50%" alt="Download my resume" /></a>
 </p>
 
 <p align="center">
